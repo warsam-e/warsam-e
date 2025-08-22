@@ -1,9 +1,9 @@
 ### Hi, I’m [War](https://warsame.me) 👋
 
-- 👋 Web dev with 7+ years experience  
-- ⚡ Love building tools that simplify tasks  
+- 👋 Web dev with 7+ years experience
+- ⚡ Love building tools that simplify tasks
 - 📦 Working on TypeScript libraries and open-source projects  
-- 🛠️ Mostly use JavaScript, Node.js, and Flutter  
+- 🛠️ Mostly use TypeScript, Bun/Node.js, and Flutter  
 
 ---
 
