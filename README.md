@@ -37,8 +37,8 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=warsam-e&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claracoliveiras&layout=compact&langs_count=7&theme=transparent&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=warsam-e&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&icon_color=cba6f7&title_color=cba6f7&text_color=cdd6f4" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claracoliveiras&layout=compact&langs_count=7&theme=transparent&hide_border=true&icon_color=cba6f7&title_color=cba6f7&text_color=cdd6f4" />
 
 
 [website]: https://warsame.me
