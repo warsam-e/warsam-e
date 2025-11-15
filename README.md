@@ -1,4 +1,4 @@
-### Hi, I’m [War](https://warsame.me) 👋
+### Hi, I’m [War](https://warsa.me) 👋
 
 - 👋 Web dev with 7+ years experience
 - ⚡ Love building tools that simplify tasks
@@ -8,28 +8,28 @@
 ---
 
 ### Languages
-[<img align="left" src="https://warsame.me/logos/typescript.svg" height="50" width="50" />][website]
-[<img align="left" src="https://warsame.me/logos/dart.svg" height="50" width="50" />][website]
-[<img align="left" src="https://warsame.me/logos/go.svg" height="50" width="50" />][website]
-[<img align="left" src="https://warsame.me/logos/rust.svg" height="50" width="50" />][website]
-[<img align="left" src="https://warsame.me/logos/php.svg" height="50" width="50" />][website]
-[<img align="left" src="https://warsame.me/logos/swift.svg" height="50" width="50" />][website]
-[<img align="left" src="https://warsame.me/logos/python.svg" height="50" width="50" />][website]
+[<img align="left" src="https://warsa.me/logos/typescript.svg" height="50" width="50" />][website]
+[<img align="left" src="https://warsa.me/logos/dart.svg" height="50" width="50" />][website]
+[<img align="left" src="https://warsa.me/logos/go.svg" height="50" width="50" />][website]
+[<img align="left" src="https://warsa.me/logos/rust.svg" height="50" width="50" />][website]
+[<img align="left" src="https://warsa.me/logos/php.svg" height="50" width="50" />][website]
+[<img align="left" src="https://warsa.me/logos/swift.svg" height="50" width="50" />][website]
+[<img align="left" src="https://warsa.me/logos/python.svg" height="50" width="50" />][website]
 
 <br>
 <br>
 <br>
 
 ### Backend and Tools
-[<img align="left" src="https://warsame.me/logos/postgresql.svg" height="50" width="50" />][website]
-[<img align="left" src="https://warsame.me/logos/bun.svg" height="50" width="50" />][website]
-[<img align="left" src="https://warsame.me/logos/nodejs.svg" height="50" width="50" />][website]
-[<img align="left" src="https://warsame.me/logos/elysiajs.svg" height="50" width="50" />][website]
-[<img align="left" src="https://warsame.me/logos/expressjs.svg" height="50" width="50" />][website]
-[<img align="left" src="https://warsame.me/logos/redis.svg" height="50" width="50" />][website]
-[<img align="left" src="https://warsame.me/logos/docker.svg" height="50" width="50" />][website]
-[<img align="left" src="https://warsame.me/logos/vscode.svg" height="50" width="50" />][website]
-[<img align="left" src="https://warsame.me/logos/datagrip.svg" height="50" width="50" />][website]
+[<img align="left" src="https://warsa.me/logos/postgresql.svg" height="50" width="50" />][website]
+[<img align="left" src="https://warsa.me/logos/bun.svg" height="50" width="50" />][website]
+[<img align="left" src="https://warsa.me/logos/nodejs.svg" height="50" width="50" />][website]
+[<img align="left" src="https://warsa.me/logos/elysiajs.svg" height="50" width="50" />][website]
+[<img align="left" src="https://warsa.me/logos/expressjs.svg" height="50" width="50" />][website]
+[<img align="left" src="https://warsa.me/logos/redis.svg" height="50" width="50" />][website]
+[<img align="left" src="https://warsa.me/logos/docker.svg" height="50" width="50" />][website]
+[<img align="left" src="https://warsa.me/logos/vscode.svg" height="50" width="50" />][website]
+[<img align="left" src="https://warsa.me/logos/datagrip.svg" height="50" width="50" />][website]
 
 <br>
 <br>
@@ -41,4 +41,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warsam-e&layout=compact&langs_count=7&theme=transparent&hide_border=true&icon_color=cba6f7&title_color=cba6f7&text_color=cdd6f4" />
 
 
-[website]: https://warsame.me
+[website]: https://warsa.me
